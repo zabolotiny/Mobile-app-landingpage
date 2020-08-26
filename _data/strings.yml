@@ -1,0 +1,10 @@
+app:
+  screenshots: Скриншоты
+  description: Описание
+  featured:
+
+footer:
+  copyright: Сделано в <a href="https://www.zabolotin.com" target="_blank">zabolotin.com</a>
+  links:
+    - title: Политика конфиденциальности
+      url: /privacy
