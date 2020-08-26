@@ -24,7 +24,7 @@ full_description: '<div dir="ltr">CoffeeRocket &ndash; якорь вкусной
 <div dir="ltr">&nbsp;</div>
 <div dir="ltr">Чтобы сформировать свое мнение о доставке кофе &ndash; сделайте заказ и ощутите будущее на себе.</div>
 <div dir="ltr">&nbsp;</div>'
-android: 
+android: https://market.android.com/details?id=com.app.flutter_coffee_rocket
 iOS: https://apps.apple.com/ua/app/1528565716
 screenshots:
   - 1.png

@@ -4,7 +4,7 @@ app:
   featured:
 
 footer:
-  copyright: Сделано в <a href="https://www.zabolotin.com" target="_blank">zabolotin.com</a>
+  copyright: Сделано в <a href="http://www.zabolotin.com" target="_blank">zabolotin.com</a>
   links:
     - title: Политика конфиденциальности
       url: /privacy
